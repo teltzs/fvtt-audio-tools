@@ -1,0 +1,15 @@
+{
+  "id": "youtube-player",
+  "title": "YouTube Player - Stream YouTube from Foundry VTT",
+  "description": "<h1>A module that allows a GM to stream audio from YouTube videos and playlists through Founrdy VTT's audio broadcast system. Control playback, use playlists, fade in and out.</h1>",
+  "authors": [
+    {
+      "name": "teltzs"
+    }
+  ],
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
