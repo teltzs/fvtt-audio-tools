@@ -11,5 +11,6 @@
   "compatibility": {
     "minimum": "10",
     "verified": "10"
-  }
+  },
+  "download": "https://github.com/teltzs/fvtt-audio-tools/archive/refs/tags/v0.1.0.zip"
 }
